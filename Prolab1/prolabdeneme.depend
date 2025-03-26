@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1729524190 source:c:\users\cucin\desktop\c# ödevler\prolabdeneme\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<raylib.h>
+	<stdbool.h>
+	<curl/curl.h>
+	<math.h>
+
+1729779395 source:c:\users\brq\desktop\prolabdeneme\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<raylib.h>
+	<stdbool.h>
+	<curl/curl.h>
+	<math.h>
+
+1729799810 source:c:\users\cucin\desktop\prolabson\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<raylib.h>
+	<stdbool.h>
+	<curl/curl.h>
+	<math.h>
+
+1730211421 source:c:\users\brq\desktop\prolabson\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<raylib.h>
+	<stdbool.h>
+	<curl/curl.h>
+	<math.h>
+
+1730211421 source:c:\users\brq\desktop\220201173_230201128\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<raylib.h>
+	<stdbool.h>
+	<curl/curl.h>
+	<math.h>
+

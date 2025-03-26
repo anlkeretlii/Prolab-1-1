@@ -1,0 +1,282 @@
+#################################
+1. Tur Sonuclari:
+
+Insan Ordusu:
+Insanlarin saldiri gucu: 245
+Insanlarin savunma gucu: 168
+
+Piyadeler'in saldiri gucu: 30
+Okcular'in saldiri gucu: 40
+Suvariler'in saldiri gucu: 50
+Kusatma_makineleri'nin saldiri gucu: 125
+
+Piyadeler'in savunma gucu: 48
+Okcular'in savunma gucu: 24
+Suvariler'in savunma gucu: 36
+Kusatma_makineleri'nin savunma gucu: 60
+
+Insanlarin birim sayilari:
+Piyadeler'in birim sayisi: 1
+Okcular'in birim sayisi: 1
+Suvariler'in birim sayisi: 1
+Kusatma_makineleri'nin birim sayisi: 1
+
+
+
+Ork Legi:
+Orklarin saldiri gucu: 246
+Orklarin savunma gucu: 120
+
+Ork_dovusculeri'nin saldiri gucu: 42
+Mizrakcilar'in saldiri gucu: 54
+Varg_binicileri'nin saldiri gucu: 66
+Troller'in saldiri gucu: 84
+
+Ork_dovusculeri'nin savunma gucu: 25
+Mizrakcilar'in savunma gucu: 20
+Varg_binicileri'nin savunma gucu: 35
+Troller'in savunma gucu: 40
+
+Orklarin birim sayilari:
+Ork_dovusculeri'nin birim sayisi: 1
+Mizrakcilar'in birim sayisi: 1
+Varg_binicileri'nin birim sayisi: 1
+Troller'in birim sayisi: 1
+
+
+
+#################################
+2. Tur Sonuclari:
+
+Insan Ordusu:
+Insanlarin saldiri gucu: 245
+Insanlarin savunma gucu: 168
+
+Piyadeler'in saldiri gucu: 30
+Okcular'in saldiri gucu: 40
+Suvariler'in saldiri gucu: 50
+Kusatma_makineleri'nin saldiri gucu: 125
+
+Piyadeler'in savunma gucu: 48
+Okcular'in savunma gucu: 24
+Suvariler'in savunma gucu: 36
+Kusatma_makineleri'nin savunma gucu: 60
+
+Insanlarin birim sayilari:
+Piyadeler'in birim sayisi: 1
+Okcular'in birim sayisi: 1
+Suvariler'in birim sayisi: 1
+Kusatma_makineleri'nin birim sayisi: 1
+
+
+
+Ork Legi:
+Orklarin saldiri gucu: 246
+Orklarin savunma gucu: 120
+
+Ork_dovusculeri'nin saldiri gucu: 42
+Mizrakcilar'in saldiri gucu: 54
+Varg_binicileri'nin saldiri gucu: 66
+Troller'in saldiri gucu: 84
+
+Ork_dovusculeri'nin savunma gucu: 25
+Mizrakcilar'in savunma gucu: 20
+Varg_binicileri'nin savunma gucu: 35
+Troller'in savunma gucu: 40
+
+Orklarin birim sayilari:
+Ork_dovusculeri'nin birim sayisi: 1
+Mizrakcilar'in birim sayisi: 1
+Varg_binicileri'nin birim sayisi: 1
+Troller'in birim sayisi: 1
+
+
+
+#################################
+3. Tur Sonuclari:
+
+Insan Ordusu:
+Insanlarin saldiri gucu: 245
+Insanlarin savunma gucu: 168
+
+Piyadeler'in saldiri gucu: 30
+Okcular'in saldiri gucu: 40
+Suvariler'in saldiri gucu: 50
+Kusatma_makineleri'nin saldiri gucu: 125
+
+Piyadeler'in savunma gucu: 48
+Okcular'in savunma gucu: 24
+Suvariler'in savunma gucu: 36
+Kusatma_makineleri'nin savunma gucu: 60
+
+Insanlarin birim sayilari:
+Piyadeler'in birim sayisi: 1
+Okcular'in birim sayisi: 1
+Suvariler'in birim sayisi: 1
+Kusatma_makineleri'nin birim sayisi: 1
+
+
+
+Ork Legi:
+Orklarin saldiri gucu: 246
+Orklarin savunma gucu: 120
+
+Ork_dovusculeri'nin saldiri gucu: 42
+Mizrakcilar'in saldiri gucu: 54
+Varg_binicileri'nin saldiri gucu: 66
+Troller'in saldiri gucu: 84
+
+Ork_dovusculeri'nin savunma gucu: 25
+Mizrakcilar'in savunma gucu: 20
+Varg_binicileri'nin savunma gucu: 35
+Troller'in savunma gucu: 40
+
+Orklarin birim sayilari:
+Ork_dovusculeri'nin birim sayisi: 1
+Mizrakcilar'in birim sayisi: 1
+Varg_binicileri'nin birim sayisi: 1
+Troller'in birim sayisi: 1
+
+
+
+#################################
+4. Tur Sonuclari:
+
+Insan Ordusu:
+Insanlarin saldiri gucu: 245
+Insanlarin savunma gucu: 168
+
+Piyadeler'in saldiri gucu: 30
+Okcular'in saldiri gucu: 40
+Suvariler'in saldiri gucu: 50
+Kusatma_makineleri'nin saldiri gucu: 125
+
+Piyadeler'in savunma gucu: 48
+Okcular'in savunma gucu: 24
+Suvariler'in savunma gucu: 36
+Kusatma_makineleri'nin savunma gucu: 60
+
+Insanlarin birim sayilari:
+Piyadeler'in birim sayisi: 1
+Okcular'in birim sayisi: 1
+Suvariler'in birim sayisi: 1
+Kusatma_makineleri'nin birim sayisi: 1
+
+
+
+Ork Legi:
+Orklarin saldiri gucu: 246
+Orklarin savunma gucu: 120
+
+Ork_dovusculeri'nin saldiri gucu: 42
+Mizrakcilar'in saldiri gucu: 54
+Varg_binicileri'nin saldiri gucu: 66
+Troller'in saldiri gucu: 84
+
+Ork_dovusculeri'nin savunma gucu: 25
+Mizrakcilar'in savunma gucu: 20
+Varg_binicileri'nin savunma gucu: 35
+Troller'in savunma gucu: 40
+
+Orklarin birim sayilari:
+Ork_dovusculeri'nin birim sayisi: 1
+Mizrakcilar'in birim sayisi: 1
+Varg_binicileri'nin birim sayisi: 1
+Troller'in birim sayisi: 1
+
+
+
+#################################
+5. Tur Sonuclari:
+
+Insan Ordusu:
+Insanlarin saldiri gucu: 220
+Insanlarin savunma gucu: 150
+
+Piyadeler'in saldiri gucu: 27
+Okcular'in saldiri gucu: 36
+Suvariler'in saldiri gucu: 45
+Kusatma_makineleri'nin saldiri gucu: 112
+
+Piyadeler'in savunma gucu: 43
+Okcular'in savunma gucu: 21
+Suvariler'in savunma gucu: 32
+Kusatma_makineleri'nin savunma gucu: 54
+
+Insanlarin birim sayilari:
+Piyadeler'in birim sayisi: 1
+Okcular'in birim sayisi: 1
+Suvariler'in birim sayisi: 1
+Kusatma_makineleri'nin birim sayisi: 1
+
+
+
+Ork Legi:
+Orklarin saldiri gucu: 219
+Orklarin savunma gucu: 107
+
+Ork_dovusculeri'nin saldiri gucu: 37
+Mizrakcilar'in saldiri gucu: 48
+Varg_binicileri'nin saldiri gucu: 59
+Troller'in saldiri gucu: 75
+
+Ork_dovusculeri'nin savunma gucu: 22
+Mizrakcilar'in savunma gucu: 18
+Varg_binicileri'nin savunma gucu: 31
+Troller'in savunma gucu: 36
+
+Orklarin birim sayilari:
+Ork_dovusculeri'nin birim sayisi: 1
+Mizrakcilar'in birim sayisi: 1
+Varg_binicileri'nin birim sayisi: 1
+Troller'in birim sayisi: 1
+
+
+
+#################################
+6. Tur Sonuclari:
+
+Insan Ordusu:
+Insanlarin saldiri gucu: 220
+Insanlarin savunma gucu: 150
+
+Piyadeler'in saldiri gucu: 27
+Okcular'in saldiri gucu: 36
+Suvariler'in saldiri gucu: 45
+Kusatma_makineleri'nin saldiri gucu: 112
+
+Piyadeler'in savunma gucu: 43
+Okcular'in savunma gucu: 21
+Suvariler'in savunma gucu: 32
+Kusatma_makineleri'nin savunma gucu: 54
+
+Insanlarin birim sayilari:
+Piyadeler'in birim sayisi: 1
+Okcular'in birim sayisi: 1
+Suvariler'in birim sayisi: 1
+Kusatma_makineleri'nin birim sayisi: 1
+
+
+
+Ork Legi:
+Orklarin saldiri gucu: 219
+Orklarin savunma gucu: 107
+
+Ork_dovusculeri'nin saldiri gucu: 37
+Mizrakcilar'in saldiri gucu: 48
+Varg_binicileri'nin saldiri gucu: 59
+Troller'in saldiri gucu: 75
+
+Ork_dovusculeri'nin savunma gucu: 22
+Mizrakcilar'in savunma gucu: 18
+Varg_binicileri'nin savunma gucu: 31
+Troller'in savunma gucu: 36
+
+Orklarin birim sayilari:
+Ork_dovusculeri'nin birim sayisi: 1
+Mizrakcilar'in birim sayisi: 1
+Varg_binicileri'nin birim sayisi: 1
+Troller'in birim sayisi: 1
+
+
+
