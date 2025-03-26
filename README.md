@@ -25,6 +25,9 @@ Gerçek zamanlı strateji oyunları için savaş mekaniklerini modelleyen bir si
 ![image](https://github.com/user-attachments/assets/f815f7a4-8c64-4c22-b2f8-f8e90a1f7c5c)
 ![image](https://github.com/user-attachments/assets/0df9a1a1-6c62-4be1-972f-8969aebb8b59)
 
+## Geliştiriciler:
+- **👨‍💻 Anıl Engin Keretli | 👨‍💻 Ahmet Burak Karkaç**
+- **📍 Kocaeli Üniversitesi, Bilgisayar Mühendisliği**
 
 
 
